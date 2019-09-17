@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/OptumConnect/DevPipeline/_apis/build/status/lopezunwired.java-pipeline?branchName=master)](https://dev.azure.com/OptumConnect/DevPipeline/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
